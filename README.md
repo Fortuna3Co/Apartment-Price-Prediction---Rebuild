@@ -11,7 +11,7 @@ pd.set_option('display.max_columns', 200)
 pd.set_option('display.max_info_rows', 500)
 pd.set_option('display.max_info_columns', 200)
 ```
-2. Using the bokeh library I made earlier. [Referencㄷ](https://github.com/Fortuna3Co/University-field-training/blob/main/python_bokeh.ipynb])
+2. Using the bokeh library I made earlier. [Reference](https://github.com/Fortuna3Co/University-field-training/blob/main/python_bokeh.ipynb])
 ```python
 from bokeh.plotting import figure, show, output_notebook, output_file, save
 from bokeh.models import LinearAxis, Range1d, ColumnDataSource, HoverTool, WheelZoomTool, Button, TextInput, CustomJS, CheckboxButtonGroup
