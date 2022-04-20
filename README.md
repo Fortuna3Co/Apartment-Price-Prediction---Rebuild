@@ -145,7 +145,7 @@ for t in train_numerical_columns:
 plot = gridplot(plots, ncols=6, toolbar_location="right", width=400, height=300)
 show(row(plot))
 ```
-5-1. Using matplotlib (before)
+5-1. Using matplotlib (before)  
 ![Matplot_Graph1](https://user-images.githubusercontent.com/78258412/164237130-12ff490b-1026-4d43-93f0-73101a71d527.png)
 
 5-2. Using Bokeh Library (After)
